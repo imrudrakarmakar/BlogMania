@@ -6,7 +6,29 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm i @reduxjs/toolkit`
+### `npm i react-redux`
+### `npm i react-google-login`
+### `npm i @material-ui/core`
+### `npm i axios`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### `npm start`
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
