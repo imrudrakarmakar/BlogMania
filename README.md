@@ -12,7 +12,9 @@ In the project directory, you can run:
 ### `npm i @material-ui/core`
 ### `npm i axios`
 
+News API [GNews](https://gnews.io/)
 
+<br />
 
 
 
